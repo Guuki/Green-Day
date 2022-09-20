@@ -1,6 +1,17 @@
+@import "font.css";
+
 #logo {
     width: 95px;
     margin-left: 20px;
+}
+#menulogin {
+    font-size: 26px;
+    margin-top: -3px;
+}
+#loginico {
+    margin-left: 110px;
+    margin-top: -6px;
+    width: 35px;
 }
 .menu {
     background-color: #119955;
