@@ -7,15 +7,9 @@
     letter-spacing: 2px;
     font-weight: bold;
     color: black;
-    font-size: 26px;
+    font-size: 168.7%;
     margin-left: 80px;
 }
 .menuf:hover {
-    font-family: MenuGD;
-    letter-spacing: 2px;
-    font-weight: bold;
     color: #F0E0C5;
-    font-size: 21px;
-    margin-left: 100px;
-    
 }
