@@ -10,14 +10,20 @@
 body {
     background-color: #F0E0C5;
 }
-
-.login {
-    margin-top: -2%;
-}
-#login {
-    margin-left: 29vw;
-}
 #loginico {
-    margin-top: -1.2vh;
-    width: 2.5vw;
+    margin-top: -1%;
+    width: 6%;
+}
+
+#main {
+    background-color: #ffedd0;
+    margin-left: 8%;
+    width: 84%;
+    height: 1000px;
+}
+.Titulo {
+    margin-left: 22.5%;
+    font-family: MenuGD;
+    font-size: 6vw;
+    letter-spacing: 0.5vw;
 }
