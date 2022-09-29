@@ -19,11 +19,16 @@ body {
     background-color: #ffedd0;
     margin-left: 8%;
     width: 84%;
-    height: 1000px;
+    height: auto;
 }
-.Titulo {
-    margin-left: 22.5%;
-    font-family: MenuGD;
-    font-size: 6vw;
-    letter-spacing: 0.5vw;
+.venda {
+    width: 230px; 
+    margin-left: 1vh;
+}
+.shoptxt {
+    text-decoration: none;
+    color: black;
+}
+.shoptxt:hover {
+    color: #119955;
 }
