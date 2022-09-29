@@ -1,12 +1,82 @@
+@import "font.css";
+
 body {
     background-image: url(../img/loginback.jpg);
     background-size: cover;
 }
 #form {
-    margin-top: 6.25vh;
+    margin-top: 4.25vh;
     border-radius: 6px;
     background-color: #ffffff;
     margin-left: 15vw;
-    height: 70vh;
+    height: 74vh;
     width: 70vw;
+}
+#actxt {
+    color: rgba(0, 0, 0, 0.568);
+    text-decoration: none;
+}
+#actxt:hover {
+    color:#119955
+}
+.camtxt {
+font-size: 120%;
+margin-left: 4vw;
+font-family: MenuGD;
+font-weight: bold;
+letter-spacing: 3px;
+}
+.campos {
+    margin-top: 1vh;
+    margin-left: 4vw;
+    height: 5.5vh;
+    width: 60vw;
+}
+.lgtit {
+    font-family: MenuGD;
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 4vw;
+    letter-spacing: 3px;
+}
+.datan {
+    font-weight: bold;
+    font-size: 120%;
+    letter-spacing: 3px;
+    font-family: MenuGD;
+    margin-left: 19vw;
+}
+#enviar {
+    margin-left: 22vw;
+    margin-top: 1.5vh;
+    font-size: 140%;
+    width: 26vw;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: MenuGD;
+    color: #ffffff;
+    height: 5.5vh;
+    background-color: #119955;
+    border: 0px;
+    border-radius: 1000px;
+}
+#dia {
+    width: 19.75vw;
+    margin-left: 4vw;
+    height: 5.4vh;
+}
+#mes {
+    width: 19.75vw;
+    height: 5.4vh;
+}
+#ano {
+    width: 19.75vw;
+    height: 5.4vh;
+}
+#Pais {
+    width: 19.75vw;
+    margin-left: 4vw;
+}
+.selel {
+    height: 5.4vh;
 }
