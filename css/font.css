@@ -30,3 +30,9 @@
     letter-spacing: 0.1vw;
     font-weight: bold;
 }
+.Preco {
+    margin-left: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    color: #000000a8;
+}

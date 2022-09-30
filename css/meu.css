@@ -32,3 +32,52 @@ body {
 .shoptxt:hover {
     color: #119955;
 }
+#searchbar {
+    width: 65vw;
+    height: 6vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+#searchbar:focus-visible {
+    border: 0ch;
+    outline-color: #119955;
+}
+#searchbtn {
+    border-radius: 1vh;
+    background-color: #119955;
+    border: 0vh;
+    width: 6vh;
+    height: 6vh;
+}
+#produbody {
+    background-color: white;
+    border-radius: 2vh;
+    margin-left: 9vw;
+    width: 80vw;
+}
+#Comp {
+    background-color: #119955;
+    border-color: #119955;
+    border-radius: 2vh;
+    color: white;
+    width: 35vw;
+    margin-left: 4vw;
+    height: auto;
+    font-size: 140%;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: MenuGD;
+}
+#Add {
+    background-color: white;
+    border-color: #119955;
+    border-radius: 2vh;
+    color: #119955;
+    width: 35vw;
+    margin-left: 2vw;
+    height: auto;
+    font-size: 140%;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: MenuGD;
+}
